@@ -1,0 +1,6 @@
+#ignore exports
+misc/export/
+
+#ignore backup folders
+otls/backup
+hip/backup
